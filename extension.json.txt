@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "Manoj-Tools",
+    "description": "Extensions for PyRevit",
+    "author": "Manoj Mittal",
+    "author_profile": "https://github.com/manojMi855",
+    "url": "https://github.com/manojMi855/Manoj-Tools.extension.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
